@@ -1,0 +1,2 @@
+class CoOwner < ApplicationRecord
+end
